@@ -94,8 +94,8 @@ This project is suitable for learning **Python GUI programming**, **event handli
 ## Author
 
 **Md. Shah Emran Hossain Sabbir**.
-Green University of Bangladesh.
-Department of CSE.
+- Green University of Bangladesh.
+- Department of CSE.
 
 ---
 
